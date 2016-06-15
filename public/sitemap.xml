@@ -2,13 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://10.42.0.230:1313/</loc>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
     <lastmod>2016-06-15T15:34:32+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://10.42.0.230:1313/post/good-to-great/</loc>
+    <loc>http://replace-this-with-your-hugo-site.com/post/good-to-great/</loc>
     <lastmod>2016-06-15T15:34:32+00:00</lastmod>
   </url>
   
